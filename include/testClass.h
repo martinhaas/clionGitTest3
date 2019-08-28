@@ -6,5 +6,9 @@
 
 class testClass
 {
+public:
+  testClass();
+  ~testClass();
 
+  int ID;
 };
