@@ -2,7 +2,9 @@
 // Created by aa97092 on 8/28/2019.
 //
 
-#ifndef CLIONGITTEST3_TESTCLASS_H
-#define CLIONGITTEST3_TESTCLASS_H
+#pragma once
 
-#endif //CLIONGITTEST3_TESTCLASS_H
+class testClass
+{
+
+};
